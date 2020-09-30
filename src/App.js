@@ -18,6 +18,7 @@ import './App.css';
         return (
             // <Comment Comment={this.state.Comment} />
             <Router>
+//           @List Create new link 
                 <ul>
                     <li><Link to='/create'>Create</Link></li>
                 </ul>
